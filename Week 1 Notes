@@ -1,0 +1,135 @@
+Notes For Week 1
+Security is defined ad the “measures taken to ensure safety”
+As the security in a Device increases convenience is often decreased.
+
+Principles of Security (CIA)
+Confidentiality makes sure that only authorized users may access information
+Integrity makes sure that information hasn’t been tampered with and is correct
+Availability makes sure that information is accessible to the correct users
+
+Triple A 
+Authentication act of ensuring that users have the correct credentials
+Authorization allows or disallows users to take a particular action
+Accounting makes a record that keeps track of who accessed the network, what the accessed, and when they left the network
+
+Threat Actors
+Is a individual that is responsible for attacks
+Another word to call them is “attacker”
+Unskilled attackers, shadow IT, ordanized crime, insiders, hacktivists, nation-state actors, and others
+
+Shadow IT
+Going pass corporate approval of technology purchases
+Often ethical but weakens security
+Oranized Crime
+Close-knit group of highly- centralized enterprises set ip for engaging in illegal activities
+Less risky and usally more rewarding than normal crime
+Motive is financial gain
+
+Insider Threats
+Companys own employees, contractors and business partners
+Motive could be revenge or blackmail
+Hard to recognize when its happening
+
+Hacktivists
+A person or group that is highly motivated bu ideology
+Often involves breaking into website and changing data
+Motive is to cause disruption/chaos
+
+Nation-State Actors
+Government employing own state attackers for launching cyberattacks against other people.
+Often involved in multiyear ubtrusion campaigns gathering highlysensitive economic, proprietary, or national security information
+New class of attacks called advanced persistent threat use innbative attack tools that quitely extract data over and extended period of time
+
+Competitors
+Launch attacks agaisnt other systems to steal data
+May steal data to gain competitive advantage
+
+Brokers
+Sells knowledge of a weakness to others for money
+Uncover weaknesses and dont report them to software vendor but sell them to highest 
+bidder
+
+Cyberterrorists
+Attacks a nations network and computer infrastructure to cause chaos
+Targets can inclide a small group of computers or networks that can affect mass majority of people
+
+Threat Vectors and Attack Surffaces
+Digital platform that threat actors target for exploits
+	Attack surfaces can be mainstream
+ Primary targets of threat actors
+Attack surfaces can be found in all technology settings
+Continue to bear the brunt of attacks to this day
+
+Supply chain
+A network that moves a product from its creation to the end-user
+Each link could be a potential threat vector
+Malware could be injected into different products during its manufacturing, storage, and distribution ( supply chain infections)
+
+Open source software
+Software where the code is available for the public to use without any restrictions
+Threat actor add malicious code to a open source project which infects unsuspecting victims
+
+Categories of Vulnerabilities
+Is the state of being exposed to the potential of being attacked or harmed
+Cybersecurity vulnerabilities can be sorted into different  groups software, hardware, misconfigurations, and zero-day vulnerabilities
+
+Software
+Vulnerabilities can be found often, with OS software being the big one
+Could include a malicious update
+
+Hardware
+These can lead to a successful attack Difficulty patching firmware, legacy platform, and end of life hardware
+
+Misconfiguration
+Often configuration setting not properly configured resulting in misconfigurations that lead to vulnerabilities
+Zero-day vulnerabilities
+ Can be exploited by attackers before anyone knows it exists
+Its called zero-day because it give zero days heads
+Extremely serious
+
+Impacts of Attacks
+Always results in several negative impacts
+May make systems inaccessible, which results in lost productivity
+May affect the public perception of the enterprise
+
+Different data Impacts
+Data loss: destruction of data so that it cannot be recovered
+Data exfiltration: Stolen data distributed to other people
+Data Breach: Stolen data to disclose in a unauthorized manor
+Identity theft: Taking someones personally identifiable information to impersonate someone else
+Information Security Resources
+
+Defenders have multiple external resources like
+Frameworks
+Regulations
+Legislation
+Standards
+Benchmarks/secure configuration guides
+Information Sources
+
+Framework
+A series of documented processes used for defining policies and procedures for implementation and management 
+The National Institute of Standards and Technology has three basic parts, Framework core, Implementation tiers, and Profiles
+Regulations
+Adhering to regulations is called regulatory compliance
+Most organizations must follow a lot of regulations from different bodies
+Information security
+Broadly applicable regulations
+Industry-specific regulations
+U.S. state regulations
+International regulations
+
+Legislation
+Laws can be enacted by governing bodies that can provide an information security resource which includes national, territorial, and state laws
+A lot of entities are involved in passing multiple pieces of legislation which leads to a mess of legislation and is not always a good cybersecurity resource
+
+Standards
+Document approved through consensus by a recognized standardization body
+Provides for frameworks, rules, guidelines, or characteristics for products or other related processes and production methods
+Payment Card Industry Data Security Standard
+
+Benchmarks/Secure Configuration Guides
+Usually distributed by hardware manufacturers and software developers
+Serves as a guideline for configuring a device or software so that it protects against attacks
+Usually platform and vendor specific guides only applies to specific products
+
