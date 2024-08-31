@@ -1,0 +1,253 @@
+Understanding Password Strength
+Question: What is password strength?
+Discussion: Research and explain why password strength is critical in protecting user data.
+
+Password strength is critical in protecting user data because a strong password allows a person to have personal data not easily accessible to a hacker or cyber threats. In a blog written by Aranza Trevino on a blog she states “According to security.org, passwords with at least one uppercase letter, number, symbol and at least 16 characters will take the longest for a password cracking program to crack – security.org estimates 34,000 years for a password that includes all of those criteria.” In comparison, a password that is six characters or less can be cracked instantly even if it has a capital letter somewhere in it. It's essential to have a strong password but you have to find balance with security and convenience. Without a strong password, your data is at risk, bank account details could be compromised or a compromise in your Gmail account could result in a bunch of other passwords or other saved information leaked and sold to the highest bidder.
+
+
+Strong Password Tips and Techniques
+Question: What are strong password tips and techniques?
+
+According to Microsoft.com some strong password tips and tricks are, Don’t share your passwords with anyone including family and friends, Never send a password through emails, use a password manager, change passwords immediately if you think it got hacked, enable multifactor authentication if it's available. If you have a complex password it is also okay to write them down as long as you keep them somewhere safe and secure. Microsoft recommends that you consider writing a hint that reminds you of the password instead of the actual password.
+
+Activity: List at least five best practices for creating strong passwords.
+12 characters long but anything more than that is better
+Use a mix of uppercase, lowercase, number, and special characters
+Stay away from using words that could be found in a dictionary or a person, a favorite character, a product, or business
+Never use the same password
+Something easy to remember but hard for anyone else to guess
+Don’t use your birthday or another memorable event in your life
+Do not use Numbers or letters that are right next to each other like 1,2,3,4 or a,b,c,d
+
+
+Importance of Password Strength
+Question: How important is password strength in overall cybersecurity?
+
+Password strength in cybersecurity as a whole is extremely important, without a strong password a business could receive a massive data leak to their company losing them extreme amounts of money. Another likely scenario is that a person gets fired from a job but the company forgets to delete their account so out of spite or for revenge he steals important information and sells it to one of their competitors.    							
+Discussion: Discuss the potential consequences of weak passwords in both personal and organizational contexts.
+
+If someone had a weak password in their personal life, their banking information could be compromised or sensitive information about them like medical records might get leaked. If someone cracked a password to another person's bank account, all of their life savings could be at risk. In an Organizational context, the severity of a weak password could be detrimental to the company as a whole. If someone high up on the list of power at the company had a weak password and someone got into it, the effects of it could shatter the company and it would be to late for anyone to try and fix it.
+Tools for Password Strength Testing
+Question: List some tools or websites to check password strength.
+
+Tools or websites to Check Passwords are:
+https://www.security.org/how-secure-is-my-password/
+https://trypap.com/
+https://www.passwordmonster.com/
+https://bitwarden.com/password-strength/
+https://haveibeenpwned.com/Passwords
+https://www.manageengine.com/
+
+Works Cited
+“Create and use strong passwords.” Microsoft Support, https://support.microsoft.com/en-us/windows/create-and-use-strong-passwords-c5cebb49-8c53-4f5e-2bc4-fe357ca048eb. Accessed 30 August 2024.
+D'Andrea, Ashley. “How Long Would it Take a Cybercriminal to Crack My Password?” Keeper Security, 3 July 2023, https://www.keepersecurity.com/blog/2023/07/03/how-long-would-it-take-a-cybercriminal-to-crack-my-password/. Accessed 30 August 2024.
+
+Exercise 2: Encryption Tools
+Objective:
+Explore the concept of encryption and understand different encryption methods and their applications.
+Tasks:
+Understanding Encryption
+Question: What is encryption?
+
+The dictionary definition of encryption is “the process of converting information or data into a code, especially to prevent unauthorized access”, but what is encryption? Encryption is in the most simple sense a way of making data harder to access by scrambling it so only people who have authorized credentials can access it. There is also symmetric encryption and asymmetric encryption, the difference between them is, that symmetric encryption uses the same key for encryption and decryption while asymmetric uses two separate keys to encrypt and decrypt data asymmetric is also considered to be more expensive to produce and takes way more computing power.
+
+Discussion: Explain the principle of encryption and its importance in securing data.
+
+The principle of encryption is to protect data from users who don't have the correct authorization to view that data. Encryption is important because it protects people's data without them even knowing it's protecting them, like a guardian angel. It also protects people's privacy, so without it there would be no privacy and everyone would have access to your information.
+
+
+Encryption Methods
+Question: List known encryption methods.
+
+Some of the most common encryption methods include:
+symmetric encryption
+Data Encryption Standard
+developed in the early 1970s
+Adopted by the US government in 1977
+Obsolete in today's tech ecosystem
+Influential in the development of modern cryptography
+Triple DES
+Evolution of DES
+Increased the key size
+Harder to decrypt with brute force attacks
+Still considered insecure
+Deprecated by NIST
+
+
+	
+Advanced Encryption Standard
+The most used method today
+Adopted by the US government in 2001
+Designed on a principle called “substitution-permutation network”
+Twofish
+Used in hardware and software
+Fastest symmetric encryption
+Free to use but not patented or open-source
+Used in encryption applications like PGP
+asymmetric encryption
+RSA
+Stands for Rivest-Shamir-Adelman (a trio of researchers from MIT who described the method in 1977)
+Original form of asymmetric encryption
+Public key is created by factoring two prime numbers and an auxiliary value
+Keys can be large
+Expensive and slow
+Often used to encrypt the shared keys of symmetric encryption
+Elliptic Curve Cryptography
+An advanced form of asymmetric encryption
+Based on elliptic curves over a finite field
+Robust security of gigantic encryption keys
+Smaller and more efficient footprint
+Used often for digital signatures
+Used to encrypt shared keys in symmetric encryption
+
+
+Activity: Identify and describe various encryption methods, including symmetric, asymmetric, and hashing. Provide examples of each.
+
+Hashing
+This form of encryption creates a special and fixed-length signature for messages, passwords, or data. Hash functions are used to protect valuable information and if there's a slight change in info it results in a completely different hash. A huge difference between hash and other types of encryption is that once data is secured it can't be changed or read in any other shape or form. Two common hash algorithms are Message Digest 5 and Secure Hashing algorithm
+	Symmetric 
+This form of encryption is one of the oldest forms of encryption, it is also one of the more reliable online forms of security. A private key could be a word, number, or even a random combo of letters, it's applied to a password which changes the message in a specific way. The way you do it depends on the particular service that you use, it could be super easy like shifting letters in your password 4 spaces forward. This form of encryption makes it extremely hard for a hacker to get past it. People use this encryption as either a “stream” cipher or a “block” cipher.
+
+		Asymmetric
+This form of encryption has two keys together that encrypt and decrypt data to make sure its kept safe during transferring. This encryption is often better than symmetric for larger businesses because you don't have to worry about passing public keys over the internet. There is a problem with asymmetric encryption, it's way slower than symmetric and requires far more processing powers to encrypt and decrypt.
+
+
+Applications of Encryption
+Question: Where do we use encryption?
+We use encryption in a variety of places and ways, we use it to, protect data that is stored on computers, and data that is transmitted over networks. It is also used to keep Financial transactions and private messages secure. When used In private messages it encrypts the data so pesky hackers can't see what you are trying to message, while with banking transactions it protects your information so a hacker can’t sell all of your money.
+
+Discussion: Discuss different scenarios where encryption is crucial, such as online transactions, email communications, and storing sensitive information.
+
+
+Without encryption data would be up for grabs for anyone who wants it, but with encryption it allows data to be harder to access if you are not the correct person that should be viewing it. If we lived in a world where there was no encryption, online transactions, communication over the internet, and very sensitive data would be accessible to anyone. People from all over the world would be able to see, your bank statements, credit card details, private messages that you don't want others to see, and passwords and sensitive personal information would be able to be seen as well. But with encryption, all of that is protected and it is crucial that we have encryption because without it the technology world would be an absolute mess.
+
+
+
+
+
+
+
+
+
+
+
+
+Works Cited
+“Cloud Encryption: Differentiating Between Symmetric, Asymmetric & Hashing.” TechnologyAdvice, https://solutions.technologyadvice.com/blog/differentiating-between-symmetric-asymmetric-hashing-encrpytion/. Accessed 30 August 2024.
+“What is encryption?” Cloudflare, https://www.cloudflare.com/learning/ssl/what-is-encryption/. Accessed 30 August 2024.
+“What Is Encryption?” Internet Society, https://www.internetsociety.org/issues/encryption/what-is/. Accessed 30 August 2024.
+“What is encryption and how does it work?” Google Cloud, https://cloud.google.com/learn/what-is-encryption. Accessed 30 August 2024.
+
+ Exercise 3: Virtual Network Setup
+Objective:
+Understand virtual networks and learn about the tools used for virtualization and setting up virtual machines.
+Tasks:
+Virtual Networks
+
+Question: What is a Virtual Network?
+
+A virtual network is a place where all devices, servers, virtual machines, and data centers are connected with software and wireless technology. This would allow the network to reach as far as it needs to reach the best efficiency, including other benefits as well. 
+.
+
+Discussion: Define a virtual network and explain how it differs from a physical network.
+
+A virtual network is simply just a group of networks that appear as a single network, it also has a consistent interface to use. It differs from a physical network doesn't have any wires at all, which means any device that interacts with another device does so through internet technology. Virtual networks are also limitless as the internet.
+
+Understanding Virtual Machines
+
+Question: What are Virtual Machines?
+
+A virtual machine is any computer system that is created using software that is on one physical computer, its job is to emulate the functionality of another separate physical machine. Multiple virtual machines can on a single computer. Each one of the machines runs its own OS and is completely separate from the other virtual machines, even though they are all running on the same host.
+
+Activity: Describe the role of virtual machines in cybersecurity practices and network management.
+
+The role of a virtual machine when practicing cybersecurity is it allows you to run multiple operating systems without hurting the main OS. Virtual machines create a safe place to test applications or study a security vulnerability without a major risk to the host machine. It also allows errors to be worked out on a smaller virtual network before rolling it out to all main workstations which could save a company from losing money. 
+
+
+
+
+Tools for Virtualization
+Question: What are the tools used for Virtualization?
+Some tools used for Virtualization are:
+VMWare
+VirtualBox
+Hyper-V
+Vagrant
+
+
+
+
+Activity: List and briefly describe tools used for creating virtual environments, such as VMware, VirtualBox, and Hyper-V. Include a discussion on the pros and cons of each tool.
+
+VMware
+	This tool has a very good selection of virtualization products with Fusion that works with Apple Mac and a Workstation Player for the PC. VMware can also work with the cloud. It can keep different privacy settings and different network configurations for multiple PCs that
+at are virtual.
+Pros:
+Has thorough hardware and utilization over multiple virtual machines
+Very flexible in where you can run workloads 
+Easy to upgrade hardware
+Allows snapshots before you do a major hardware change
+VM can outlive hardware
+Free for personal use
+
+Cons:
+Licensing costs can be quite expensive
+Resource intensive
+Compatibility issues with certain hardware and drivers
+
+
+VirtualBox	
+VirtualBox allows for a wide selection of hosts and client combinations. This software has also always been free for anyone to use. VirtualBox is also open source which is a bonus for some people comparing it to other virtual tools. It is also possible to manage the virtual machines individually or in groups.
+
+Pros:
+Use at home for lower cost and highspeed]
+Setup and installation are very easy
+User-friendly interface
+Can cap or limit the Vms CPU and IO time
+Helps personalize so we have the ability to run multiple operating systems
+Cons:
+Only as powerful as its host
+If the host has flaws, virtual machines will be affected
+Less efficient compared to host machines
+
+ Hyper-V
+	Microsoft introduced Hyper-V in 2008 when virtualization had just become popular. Hyper-V can provide a great deal of portability to server-based applications, it can even be moved to different hardware with very little downtime. You can even deploy a new operating system in just a few minutes. Hyper-V is a good choice for Windows-based servers to run virtualization on.
+
+Pros:
+Cost-effectiveness
+Efficient utilization of resources 
+Features for disaster recovery
+Cons:
+Overbearing storage management
+No mac support
+Heavy workloads have performance concerns
+Not open source 
+
+Vagrant
+	This software provides easily configurable, reproducible, portable work environments. Vagrant will isolate dependencies and configurations within a disposable environment without giving up any of the tools that people are used to. This software also gives a disposable environment.
+
+Pros:
+Decentralized tools with a lot of flexibility
+Configuration is easy for local development
+Easy to achieve efficiency and reliability repeat results
+Has a Free option as well as paid
+Cons:
+High learning curve
+Major bugs in updates
+Issues running on Windows 8.1 and Windows 10 home
+
+
+
+Works Cited
+guide, Step. “VMware vs VirtualBox: What is the Difference?” Great Learning, https://www.mygreatlearning.com/blog/vmware-vs-virtualbox/. Accessed 31 August 2024.
+“Introduction | Vagrant.” HashiCorp Developer, https://developer.hashicorp.com/vagrant/intro. Accessed 31 August 2024.
+Ionescu, Stefan. “VirtualBox.” TechRadar, 22 September 2022, https://www.techradar.com/reviews/virtualbox. Accessed 31 August 2024.
+“Operating Systems and Virtual Machines in Cybersecurity | by Pixel Precision Engineering.” Medium, 29 May 2024, https://medium.com/@pixelprecisionengineering1/operating-systems-and-virtual-machines-in-cybersecurity-c311b009ebc8. Accessed 31 August 2024.
+Pickavance, Mark, and Brian Turner. “Best virtual machine software of 2024.” TechRadar, 22 April 2024, https://www.techradar.com/best/best-virtual-machine-software. Accessed 31 August 2024.
+“Pros and Cons of Hyper-V Network Virtualization to Be Aware Of.” NAKIVO, 1 June 2023, https://www.nakivo.com/blog/pros-cons-hyper-v-network-virtualization/. Accessed 31 August 2024.
+Schnackenburg, Paul. “What is Hyper-V?” Altaro, https://www.altaro.com/hyper-v/what-is-hyper-v/. Accessed 31 August 2024.
+Watts, Stephen. “What is a Virtual Network? – BMC Software | Blogs.” BMC Software, 16 June 2020, https://www.bmc.com/blogs/virtual-network/. Accessed 31 August 2024.
+“What Is A Virtual Machine? VM Uses and Benefits.” Google Cloud, https://cloud.google.com/learn/what-is-a-virtual-machine. Accessed 31 August 2024.
+“What is Virtual Networking?” VMware, https://www.vmware.com/topics/virtual-networking. Accessed 31 August 2024.
+
+
