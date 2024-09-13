@@ -6,3 +6,6 @@ Data security methods are, Data minimization, Data masking, Tokenization, Restri
 Faraday bags are lightweight and portable and can shield portable devices 
 
 Google Dorking uses advanced Google search techniques to look for information that unsuspecting victims have carelessly posted on the web 
+
+Sponge function ( takes as input a string of any length and returns a string of any requested variable length)
+
