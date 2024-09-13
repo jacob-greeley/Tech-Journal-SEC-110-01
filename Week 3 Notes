@@ -1,0 +1,63 @@
+Cryptography
+
+Steganography
+	• Hides the existence of data
+	• Images, audio, or video can have hidden messages
+	-Achieved by dividing the data and then hiding it in unused portions of the file
+	• Hide data in file header that describes the file, between sections of the metadata
+Cryptography
+	• Practice of scrambling data so that information so that it can not be understood by unauthorized people
+		○ Transposition, is when each letter if the message is rearranged
+		○ Substitution, is when one letter is substituted for another letter
+	· Plaintext (unencrypted data that is input for encryption or can be the output of decryption)
+	· Ciphertext (scrambled and unreadable output of encryption)
+	· Cleartext (Unencrypted data that isn't intended to be encrypted)
+
+Cryptographic algorithms
+	· Hash
+	· Symmetric
+	· Asymmetric
+          - pad (long sequence of random letters)
+	- Stream cipher (takes a character and replaces it with another)
+	- Block cipher ( changes a entire block of plaintext at one time)
+	- Sponge function ( takes as input a string of any length and returns a string of any requested variable length)
+Symmetric 
+	· Private key cryptography ( keeps the key private between the sender and recipient)
+	· Strong encryption if key is kept secure
+	· AES and blowfish and twofish
+Asymmetric
+	· Distributes and maintains key among multiple users
+	· Uses two keys (private and public)
+	- Public key is available to everyone and is freely distributed
+	- Private key is know only to whom it belongs to
+Important principles for asymmetric
+	- Key pair
+	- Public key
+	- Private key
+	- Both directions
+Different asymmetric cryptographic algorithms
+	
+	· RSA (published in 1977)
+	· ECC (users share one elliptic curve and one point on the curve)
+	· DSA ( Creates a digital signature)
+	· Key exchange (DH, DHE, ECDH, Perfect forward secrecy)
+Encryption through Software
+	· File and File System Cryptography
+	· Disk Encryption
+		○ Full disk encryption
+		○ Volume level encryption
+	· Database Encryption
+		○ Database level encryption
+Hardware Encryption
+	· Can be embedded in hardware, and even in USB devices and standard hard drives
+	· Built into USB which allows for all data written to be encrypted
+	· Some USBs allow admins to remotely prohibit accessing the data, lock out a user, or even destroy all data
+	· Self-encrypting drives
+	· Hardware security model
+	· Trusted Platform Module
+Limits of Cryptography
+	· Require both time and energy, which results in a resource versus security constraints
+Attacks on Cryptography
+	·  most common attacks are algorithm attacks and collision attacks
+	· Collision attack (attempt to find two input strings of a hash function that produce the same hash results)
+	· Birthday attack (based on birthday paradox which says for there to be a 50 percent chance of someone in a room sharing your birthday is that 253 people would need to be in the room)
