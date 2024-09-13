@@ -1,0 +1,104 @@
+Social Engineering Attacks
+	Social engineering is a means of getting information or tricking a person to do something that weakens security
+	
+		· Always preformed through deception and manipulation
+		· Said to be accomplished using human vectors as attack surface
+		· Attackers use multiple different ways to get a person to gain trust, they provide a reason, project confidence, use evasion and diversion, or just by simply making someone laugh.
+		
+		Different Types are Social Engineering Attacks are:
+	
+		· Phishing is sending emails or displaying a web announcement that claims to be from a legit source in an attempt to trick the user.
+	
+		· Different types of phishing attacks are, Spear phishing, Whaling, Vishing, Smishing.
+	
+		· Phishing is considered to be one of the biggest and most consequential cyber threats facing both enterprises and consumers.
+	
+		· Impersonation is masquerading as a person who is not yourself and then playing out that role of that person on a target
+	
+		· Brand impersonation is when a threat actor pretends in order to build immediate recognition and trust
+	
+		· Redirection is when a attacker directs a user to a similar fake site filled with ads for which the attacker received money for the traffic that is generated to the site
+	
+		· Two types of redirection are known as squatting and pharming
+	
+		· Misinformation is false or inaccurate information and disinformation is false or inaccurate information that comes  from a malicious intent
+	
+		· Watering hole attack is directed toward a smaller group of specific individuals such as a major executive working for a manufacturing company
+	
+		· Dumpster diving involves digging through trash to find information that could help in an attack
+	
+		· Google Dorking uses advanced Google search techniques to look for information that unsuspecting victims have carelessly posted on the web
+	
+		· Shoulder surfing is when someone observes someone entering secret information without bring attention to themselves
+	
+	
+Perimeter Defenses
+
+	 Some businesses have used “industrial camouflage to make the physical presence of a building as nondescript as possible
+
+	Perimeter defenses must be used to restrict access
+	
+	Defense includes barriers, security guards, sensors, security buffers, and locks
+	
+Barriers
+	Fencing is usually a tall structure that is permanent to keep out unauthorized people, most modern fences have other deterrents on them
+Bollard is a short but sturdy vertical post that is used as a vehicular traffic barricade to prevent a car from ramming into a secure area
+Security guards patrol and monitor areas where they do not want unauthorized people going through usually there are multiple security guards in one area, sometimes they also use video surveillance cameras, drones, high-end cameras 
+
+Sensors
+	An IR sensor is an electronic device that can measure and detect infrared in the surrounding area
+Microwave sensor is used to monitor a large area
+Ultrasonic sensors can measure how far an object is located, and are not as susceptible to the interface by smoke, gas, and other airborne gasses
+Pressure sensor can tell if someone has entered a restricted area
+
+Security Buffers
+	Buffers serve as a protective barrier to give extra protection
+A mantrap is a buffer where the user has to show credentials to open the first door where credentials must be checked before a second door they pass through is unlocked, a reception area can be used in areas with medium security and in low security you can just use a waiting room
+
+Locks
+	Electronic locks can be programmed to allow certain people in at certain times
+
+Preventing data leaks
+
+	• A Faraday cage and protected cable distribution systems
+
+	• Electronic devices emit electromagnetic fields and unauthorized people can read those signals 
+
+	• A Faraday cage is a metallic enclosure that prevents the entry or escape of an electromagnetic field
+
+	• Faraday bags are lightweight and portable and can shield portable devices
+
+Protected distribution System 
+	This is a system of cable conduits used to protect classified information transmitted between two secure areas
+
+Two common types are Hardened carriers which is constructed of electrical metallic tubing  and alarmed carriers deployed with specialized optical fibers in the conduit that can sense acoustic vibrations
+
+Computer hardware security
+	A cable lock allows a portable device to be locked in place
+	
+Data Controls
+	It's necessary to have adequate controls in place to protect, which involves knowing the different classifications and types of data, and what the consequences will be
+
+Types of data
+	Regulated data is which external stipulations are placed on it regarding who can see and use the data and in what contexts
+	• Intellectual property is an invention or work that is the result of creativity
+
+	• A trade secret is enterprise data that is undisclosed
+
+	• Legal information is general factual information about the law and legal process
+
+	• Financial information is data about the monetary transactions of the enterprise
+
+	• Human readable data is data a device can interpret and in its native state is not readily understood by a person
+
+Data Breach consequences
+	Some consequences of data breach are, Reputation damage, IP theft, as well as fines
+	
+	Protecting Data
+		Consider data state or condition. Three different states it could be in are, Data in processing, Data in transit, and when data is at rest
+		
+		Where is the geolocation of the data
+		
+		Data sovereignty is country specific requirements that applies to data 
+		
+Data security methods are, Data minimization, Data masking, Tokenization, Restrictions, Segmentations
